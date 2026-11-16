@@ -1,0 +1,8 @@
+{
+  "item.throwing_discs.copper_throwing_disc": "Kupfer-Wurfscheibe",
+  "item.throwing_discs.iron_throwing_disc": "Eisen-Wurfscheibe",
+  "item.throwing_discs.golden_throwing_disc": "Gold-Wurfscheibe",
+  "item.throwing_discs.diamond_throwing_disc": "Diamant-Wurfscheibe",
+  "item.throwing_discs.netherite_throwing_disc": "Netherit-Wurfscheibe",
+  "entity.throwing_discs.throwing_disc": "Wurfscheibe"
+}
